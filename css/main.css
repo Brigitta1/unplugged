@@ -106,6 +106,10 @@ body, html {
     background-color: #eee;
 }
 
+nav i {
+    padding-right: 10px;
+}
+
 a {
     font-weight: 700;
     color: #23a4cc;
@@ -261,6 +265,10 @@ main {
 
 .sidebar-faqs {
     display: none;
+}
+
+.btn i {
+    padding-right: 10px;
 }
 
 /********* BOTTOM MAIN CONTENT WITH ARTICLE FEED *****/
